@@ -1,0 +1,12 @@
+{
+  "name": "question_3_name_cases",
+  "version": "1.0.0",
+  "description": "In this ts file i have solved question_3_name_cases",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Saif ur Rehman (Roll No. 481157)",
+  "license": "ISC"
+}

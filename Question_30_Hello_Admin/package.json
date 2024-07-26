@@ -1,0 +1,12 @@
+{
+  "name": "question_30_hello_admin",
+  "version": "1.0.0",
+  "description": "In this Ts file I have completed question_30_hello_admin",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Saif ur Rehman Roll No: 481157",
+  "license": "ISC"
+}

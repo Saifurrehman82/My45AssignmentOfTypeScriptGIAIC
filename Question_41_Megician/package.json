@@ -1,0 +1,12 @@
+{
+  "name": "question_41_megician",
+  "version": "1.0.0",
+  "description": "In this Ts file I have completed question_41_megician",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Saif ur rehman Roll No.: 481157",
+  "license": "ISC"
+}

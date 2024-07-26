@@ -1,0 +1,12 @@
+{
+  "name": "question_2_personal_msg",
+  "version": "1.0.0",
+  "description": "In this ts file i have solved question_2_personal_msg",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Saif ur Rehman (Roll No.841157)",
+  "license": "ISC"
+}
